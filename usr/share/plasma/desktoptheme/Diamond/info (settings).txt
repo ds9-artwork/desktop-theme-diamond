@@ -1,0 +1,14 @@
+baseTheme=ROSA
+Color Scheme=ROSA
+Panel Background=ROSA (opaque)
+Kickoff=ROSA
+Task Items=Caledonia
+Widget Background=ROSA
+Translucent Background=ROSA
+Dialog Background=ROSA
+Analog Clock=ROSA
+Notes=Androbit (customized)
+Tooltip=ROSA
+Pager=Caledonia
+Run Command Dialog=ROSA
+Shutdown Dialog=E-plasma
