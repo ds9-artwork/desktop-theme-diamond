@@ -1,0 +1,13 @@
+Source: desktop-theme-diamond
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: desktop-theme-diamond
+Architecture: all
+Replaces: netrunner-artwork (<< 1.1.49)
+Breaks: netrunner-artwork (<< 1.1.49)
+Description: Diamond Plasma Theme
+  This package provides the diamond plasma theme.
